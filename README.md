@@ -4,6 +4,8 @@
 
 🎓 Recentemente, concluí o MBA de Desenvolvimento Full Stack pela XP Educação, onde aprofundei meus conhecimentos e habilidades nas mais modernas tecnologias e práticas do mercado.
 
+Atualmente cursando Pós-graduação em Ciência de Dados e Machine Learning na XP Educação e, em paralelo, estudando Python na Hashtag Programação.
+
 <h2>💻 Minhas ferramentas e tecnologias preferidas incluem:</h2>
 
 Front-end: HTML, CSS, JavaScript, React JS, Tailwind CSS, Bootstrap CSS. <br>
