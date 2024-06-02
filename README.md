@@ -2,7 +2,7 @@
 
 👋 Olá! Sou Daniel Carvalho de Assis, um entusiasta apaixonado pelo desenvolvimento de software web, em constante busca por aprendizado e aprimoramento. Há cerca de um ano, mergulhei de cabeça nesse mundo fascinante e desde então tenho explorado as nuances do desenvolvimento full stack.
 
-🎓 Recentemente, concluí o MBA de Desenvolvimento Full Stack pela XP Educação, onde aprofundei meus conhecimentos e habilidades nas mais modernas tecnologias e práticas do mercado.
+🎓 Em maio de 2024, concluí o MBA de Desenvolvimento Full Stack pela XP Educação, onde aprofundei meus conhecimentos e habilidades nas mais modernas tecnologias e práticas do mercado.
 
 Atualmente cursando Pós-graduação em Ciência de Dados e Machine Learning na XP Educação e, em paralelo, estudando Python na Hashtag Programação.
 
